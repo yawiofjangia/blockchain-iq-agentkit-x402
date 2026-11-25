@@ -1,0 +1,11 @@
+{
+  "resource": "https://www.blockchainiq.co/api/x402/v1/brief",
+  "priceUsd": 0.01,
+  "priceBaseUnits": "10000",
+  "network": "eip155:8453",
+  "asset": "USDC",
+  "payTo": "0x617dA9383fbA67e86137BC4924b8b7E400fB7C9e",
+  "payer": "0x37712849AB48905dF878A3eC4FBa41B1373Dea5e",
+  "paymentTxHash": "0x7476775eed0e7cc1e8126a64f0d183b28732d49caa07ae964f45015e947bafa0",
+  "timestamp": "2026-11-25T01:38:32.807Z"
+}

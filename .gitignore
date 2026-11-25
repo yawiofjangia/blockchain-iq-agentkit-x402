@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+*.keypair.json
+.wallet.json
+# The keypair file lives OUTSIDE this repo. Pass its path via BIQ_KEYPAIR_PATH.
